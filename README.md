@@ -21,6 +21,25 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/lightning-habana?style=social)](https://github.com/Lightning-AI/lightning-habana/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/lightning-ai/lightning-habana?style=social)](https://github.com/Lightning-AI/lightning-habana/forks)
 
+### GraphCore IPU
+
+The [Graphcore Intelligence Processing Unit](https://www.graphcore.ai/products/ipu) (IPU), built for Artificial Intelligence and Machine Learning, consists of many individual cores, called tiles, allowing highly parallel computation. Due to the high bandwidth between tiles, IPUs facilitate machine learning loads where parallelization is essential. Because computation is heavily parallelized,
+
+[![PyPI Status](https://badge.fury.io/py/lightning-graphcore.svg)](https://badge.fury.io/py/lightning-graphcore)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/lightning-graphcore)](https://pypi.org/project/lightning-graphcore/)
+[![GitHub Release Date](https://img.shields.io/github/release-date/lightning-ai/lightning-graphcore)](https://github.com/lightning-ai/lightning-graphcore/releases)
+[![PyPI Status](https://pepy.tech/badge/lightning-graphcore)](https://pepy.tech/project/lightning-graphcore)
+
+[![General checks](https://github.com/Lightning-AI/lightning-graphcore/actions/workflows/ci-checks.yml/badge.svg?event=push)](https://github.com/Lightning-AI/lightning-graphcore/actions/workflows/ci-checks.yml)
+[![Build Status](https://dev.azure.com/Lightning-AI/compatibility/_apis/build/status%2Faccelerators%2FLightning-AI.lightning-Graphcore?branchName=main)](https://dev.azure.com/Lightning-AI/compatibility/_build/latest?definitionId=48&branchName=main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/lightning-ai/lightning-graphcore)](https://github.com/Lightning-AI/lightning-graphcore/commits)
+[![GitHub issues](https://img.shields.io/github/issues/lightning-ai/lightning-graphcore)](https://github.com/Lightning-AI/lightning-graphcore/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/lightning-ai/lightning-graphcore)](https://github.com/Lightning-AI/lightning-graphcore/pulls)
+
+[![Deploy Docs](https://github.com/Lightning-AI/lightning-graphcore/actions/workflows/docs-deploy.yml/badge.svg)](https://lightning-ai.github.io/lightning-graphcore/)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/lightning-graphcore?style=social)](https://github.com/Lightning-AI/lightning-graphcore/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/lightning-ai/lightning-graphcore?style=social)](https://github.com/Lightning-AI/lightning-graphcore/forks)
+
 ## Strategies
 
 ### ColossalAI
